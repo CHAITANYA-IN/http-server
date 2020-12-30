@@ -33,6 +33,7 @@ Our default file is success.html (index.html of apache2)
 If a page successfully loads, it gets redirected to success.html
 If a file is not found, error.html is used.
 Before testing, do create a file ***otps.txt*** and change its permission to read-only.
-Use these for ***otps.txt***
+
+Use these for generating ***otps.txt***
 `touch otps.txt`
 `sudo chmod -rwx otps.txt`
