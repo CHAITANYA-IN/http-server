@@ -1,0 +1,605 @@
+127.0.0.1 - - [22/Oct/2020:23:54:05 +0530] "GET" 400 0 "-" "-"
+127.0.0.1 - - [22/Oct/2020:23:54:38 +0530] "GET" 400 0 "-" "-"127.0.0.1 - - [26/Oct/2020 15:37:28 +0000] "GET / HTTP/1.1" 404 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15127.0.0.1 - - [26/Oct/2020:15:44:26 +0000] "GET / HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [26/Oct/2020:15:44:26 +0000] "GET / HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [26/Oct/2020:15:45:08 +0000] "GET / HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+127.0.0.1 - - [26/Oct/2020:15:45:20 +0000] "GET / HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+127.0.0.1 - - [26/Oct/2020:15:46:08 +0000] "GET / HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [26/Oct/2020:15:46:19 +0000] "GET /success.html HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [26/Oct/2020:15:46:19 +0000] "GET / HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [26/Oct/2020:15:46:19 +0000] "GET /success.html HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [26/Oct/2020:16:25:45 +0000] "HEAD /success.html HTTP/1.1" 200 183 PostmanRuntime/7.26.5
+127.0.0.1 - - [26/Oct/2020:16:32:48 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" PostmanRuntime/7.26.5
+127.0.0.1 - - [05/Nov/2020:20:08:18 +0000] "GET / HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [05/Nov/2020:20:08:18 +0000] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 182 Safari/15610.1.28.1.9 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+127.0.0.1 - - [05/Nov/2020:20:08:18 +0000] "GET /apple-touch-icon.png HTTP/1.1" 404 182 Safari/15610.1.28.1.9 CFNetwork/1128.0.1 Darwin/19.6.0 (x86_64)
+127.0.0.1 - - [05/Nov/2020:20:08:19 +0000] "GET /favicon.ico HTTP/1.1" 404 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [05/Nov/2020:22:20:38 +0000] "GET /answer.txt HTTP/1.1" 200 9
+127.0.0.1 - - [05/Nov/2020:22:24:15 +0000] "GET /answer.txt HTTP/1.1" 200 9
+127.0.0.1 - - [05/Nov/2020:22:24:36 +0000] "GET /answer.txt HTTP/1.1" 200 9
+127.0.0.1 - - [05/Nov/2020:22:25:21 +0000] "GET /answer.txt HTTP/1.1" 200 9
+127.0.0.1 - - [05/Nov/2020:22:25:34 +0000] "GET /answer.txt HTTP/1.1" 200 9
+127.0.0.1 - - [05/Nov/2020:22:29:21 +0000] "GET /answer.txt HTTP/1.1" 200 9
+127.0.0.1 - - [05/Nov/2020:22:30:47 +0000] "GET /answer.txt HTTP/1.1" 200 9
+127.0.0.1 - - [05/Nov/2020:22:33:17 +0000] "GET /answer.txt HTTP/1.1" 304 9
+127.0.0.1 - - [05/Nov/2020:22:34:11 +0000] "GET /answer.txt HTTP/1.1" 200 12
+localhost - - [07/Nov/2020:17:46:01 +0000] "GET / HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:17:47:58 +0000] "GET / HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:18:14:20 +0000] "GET / HTTP/1.1" 304 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:18:14:47 +0000] "GET /success.html HTTP/1.1" 200 183 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:18:14:52 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:18:44:37 +0000] "GET / HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:18:44:50 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:18:55:25 +0000] "GET / HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:18:58:44 +0000] "GET / HTTP/1.1" 304 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:18:58:45 +0000] "GET /return.png HTTP/1.1" 200 3183028 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:19:08:49 +0000] "GET / HTTP/1.1" 304 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:19:10:38 +0000] "GET /success.html HTTP/1.1" 200 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:14:59 +0000] "GET / HTTP/1.1" 200 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:15:46 +0000] "GET / HTTP/1.1" 304 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:15:46 +0000] "GET /return.png HTTP/1.1" 200 3183028 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:19:23 +0000] "GET / HTTP/1.1" 304 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:22:53 +0000] "GET / HTTP/1.1" 304 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:23:12 +0000] "GET /success.html HTTP/1.1" 200 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:23:52 +0000] "GET /success.html HTTP/1.1" 200 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:24:52 +0000] "GET /favicon.ico HTTP/1.1" 200 25768 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:24:56 +0000] "GET /success.html HTTP/1.1" 200 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [07/Nov/2020:19:26:49 +0000] "GET / HTTP/1.1" 304 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:19:27:22 +0000] "GET /answer.txt HTTP/1.1" 200 16 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:19:27:22 +0000] "GET /favicon.ico HTTP/1.1" 200 25768 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:19:30:25 +0000] "GET / HTTP/1.1" 200 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:19:30:25 +0000] "GET /favicon.ico HTTP/1.1" 200 25768 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:19:30:33 +0000] "GET / HTTP/1.1" 304 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:19:30:34 +0000] "GET /success.html HTTP/1.1" 200 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [07/Nov/2020:19:31:15 +0000] "GET / HTTP/1.1" 304 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:05:32 +0000] "GET /success.html HTTP/1.1" 200 304 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:10:39 +0000] "GET / HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:10:39 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:10:55 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:10:56 +0000] "GET /success.html HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:11:12 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:11:32 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:11:32 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:11:32 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:11:33 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:11:38 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:11:41 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:20:00 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:20:00 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:43:27 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:43:46 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:43:47 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:44:12 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:45:10 +0000] "GET / HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:57:55 +0000] "GET / HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:05:57:55 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:06:02:27 +0000] "GET / HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:02:45 +0000] "GET /success.html HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:02:48 +0000] "GET /success.html HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:02:51 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:04:28 +0000] "GET / HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:07:08 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:07:08 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:07:18 +0000] "GET /success.html HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:07:24 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:07:35 +0000] "GET /image.png HTTP/1.1" 200 2387271 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:16:03 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:16:12 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:16:27 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:17:12 +0000] "GET / HTTP/1.1" 200 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:17:16 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:25:37 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:26:39 +0000] "GET / HTTP/1.1" 304 228 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:26:40 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:06:27:26 +0000] "GET /image.png HTTP/1.1" 200 2387271 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+localhost - - [08/Nov/2020:07:46:19 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:07:46:19 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:07:46:43 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:07:46:43 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:08:00:04 +0000] "GET /success.html HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:08:01:30 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:08:01:30 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:08:04:21 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:08:04:21 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [08/Nov/2020:08:07:09 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [09/Nov/2020:18:34:25 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+127.0.0.1 - - [09/Nov/2020:18:34:25 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [09/Nov/2020:18:36:27 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [09/Nov/2020:18:36:27 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [09/Nov/2020:18:46:41 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+localhost - - [09/Nov/2020:19:00:31 +0000] "GET / HTTP/1.1" 200 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [09/Nov/2020:19:10:28 +0000] "GET /error.html HTTP/1.1" 403 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [09/Nov/2020:19:10:53 +0000] "GET /dummy.html HTTP/1.1" 403 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [09/Nov/2020:19:10:57 +0000] "GET /dummy.html HTTP/1.1" 403 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [09/Nov/2020:19:15:47 +0000] "GET /success.html HTTP/1.1" 403 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [09/Nov/2020:19:17:10 +0000] "GET /dummy.html HTTP/1.1" 403 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [09/Nov/2020:19:17:14 +0000] "GET /dummy.html HTTP/1.1" 403 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [09/Nov/2020:19:17:15 +0000] "GET /dummy.html HTTP/1.1" 403 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:13:49:51 +0000] "GET / HTTP/1.1" 200 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:13:49:51 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:13:50:01 +0000] "GET / HTTP/1.1" 304 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:13:50:20 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:13:50:28 +0000] "GET /success.html HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:13:50:28 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:13:50:34 +0000] "GET / HTTP/1.1" 304 0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:14:53 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:20:40 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:23:00 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:34:07 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:34:08 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:34:08 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:23 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:23 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:24 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:24 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:25 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:25 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:25 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:25 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:26 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:26 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:26 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:26 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:26 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:26 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:30 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:30 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:30 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:30 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:30 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:30 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:32 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:34 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:35 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:37 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:35:39 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "51184A=5291,expires: Thu, 12 Nov 2020 19:19:18 GMT; 5F1D2D=5324,expires: Thu, 12 Nov 2020 19:19:18 GMT; A98C0F=7843,expires: Thu, 12 Nov 2020 19:19:18 GMT; 22D520=2251,expires: Thu, 12 Nov 2020 19:19:18 GMT; DB3A91=8937,expires: Thu, 12 Nov 2020 19:19:18 GMT; 28F85B=8472,expires: Thu, 12 Nov 2020 19:19:18 GMT; ABA6EF=8835,expires: Thu, 12 Nov 2020 19:19:18 GMT"
+127.0.0.1 - - [10/Nov/2020:14:43:02 +0000] "GET / HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:14:43:02 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:43:07 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:43:11 +0000] "GET / HTTP/1.1" 304 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:51 +0000] "GET /success.html HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:51 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:53 +0000] "GET /success.html HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:53 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:54 +0000] "GET /success.html HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:54 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:54 +0000] "GET /success.html HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:54 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:54 +0000] "GET /success.html HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:54 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:55 +0000] "GET /success.html HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:55 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:55 +0000] "GET /success.html HTTP/1.1" 200 257 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:48:55 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:51:14 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:51:14 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "476C34=9969,expires: Thu, 12 Nov 2020 20:12:58 GMT"
+127.0.0.1 - - [10/Nov/2020:14:53:29 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:14:53:30 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "7BF7E1=7899,expires: Tue, 10 Nov 2020 20:23:28 GMT"
+127.0.0.1 - - [10/Nov/2020:14:53:31 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "7BF7E1=7899,expires: Tue, 10 Nov 2020 20:23:28 GMT"
+127.0.0.1 - - [10/Nov/2020:14:53:33 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "7BF7E1=7899,expires: Tue, 10 Nov 2020 20:23:28 GMT"
+127.0.0.1 - - [10/Nov/2020:14:53:34 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "7BF7E1=7899,expires: Tue, 10 Nov 2020 20:23:28 GMT"
+127.0.0.1 - - [10/Nov/2020:14:53:39 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "7BF7E1=7899,expires: Tue, 10 Nov 2020 20:23:28 GMT"
+127.0.0.1 - - [10/Nov/2020:14:54:04 +0000] "GET /dummy.html HTTP/1.1" 200 22 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "7BF7E1=7899,expires: Tue, 10 Nov 2020 20:23:28 GMT"
+127.0.0.1 - - [10/Nov/2020:14:55:40 +0000] "GET /dummy.html HTTP/1.1" 200 22 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "7BF7E1=7899,expires: Tue, 10 Nov 2020 20:23:28 GMT"
+127.0.0.1 - - [10/Nov/2020:14:55:45 +0000] "GET /form1.html HTTP/1.1" 200 814 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "7BF7E1=7899,expires: Tue, 10 Nov 2020 20:23:28 GMT"
+127.0.0.1 - - [10/Nov/2020:15:03:56 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:15:03:56 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "AFE061=7801"
+127.0.0.1 - - [10/Nov/2020:15:03:59 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:15:04:07 +0000] "GET /success.html HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:15:04:07 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "F77CC3=3370"
+127.0.0.1 - - [10/Nov/2020:15:04:29 +0000] "GET /dummy.html HTTP/1.1" 200 22 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:18:31:57 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:18:31:57 +0000] "GET /return.png HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "6AA08F=2893"
+127.0.0.1 - - [10/Nov/2020:18:31:57 +0000] "GET /favicon.ico HTTP/1.1" 200 19325 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 "6AA08F=2893"
+127.0.0.1 - - [10/Nov/2020:18:32:06 +0000] "GET /dummy.html HTTP/1.1" 200 22 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:18:32:11 +0000] "GET /success.html HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [10/Nov/2020:18:32:17 +0000] "GET /error.html HTTP/1.1" 200 182 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:30:01 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:32:39 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:34:26 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:34:29 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:34:34 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:36:00 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:36:05 +0000] "GET /success.html HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:36:07 +0000] "GET /success.html HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:36:31 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:36:44 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:40:44 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:12:55:39 +0000] "GET / HTTP/1.1" 200 280 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:13:00:26 +0000] "GET / HTTP/1.1" 200 191 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:13:03:39 +0000] "GET /return.png HTTP/1.1" 200 17091 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36 "42C8A0=8861"
+127.0.0.1 - - [11/Nov/2020:13:07:18 +0000] "GET / HTTP/1.1" 200 191 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:13:07:54 +0000] "GET /return.png HTTP/1.1" 200 17091 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36 "539866=3691"
+127.0.0.1 - - [11/Nov/2020:13:09:26 +0000] "GET /error.html HTTP/1.1" 200 120 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:13:16:02 +0000] "GET / HTTP/1.1" 200 191 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:13:17:17 +0000] "GET /return.png HTTP/1.1" 200 17091 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36 "2F97FC=8294"
+127.0.0.1 - - [11/Nov/2020:13:20:40 +0000] "GET / HTTP/1.1" 200 191 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:13:22:00 +0000] "GET / HTTP/1.1" 200 191 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+127.0.0.1 - - [11/Nov/2020:13:36:42 +0000] "GET /answer.txt HTTP/1.1" 200 12 "afsd=4654"
+127.0.0.1 - - [11/Nov/2020:13:39:19 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:40:31 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:40:36 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:40:38 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:40:40 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:40:41 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:40:41 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:40:42 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:40:43 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:40:43 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:42:31 +0000] "GET /answer.txt HTTP/1.1" 200 12 "afsd=4654"
+127.0.0.1 - - [11/Nov/2020:13:43:21 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:23 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:24 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:24 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:25 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:25 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:25 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:26 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:26 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:26 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:27 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:27 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:43:27 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:34 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:35 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:36 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:55 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:56 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:56 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:56 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:57 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:57 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:57 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:58 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:58 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:58 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:59 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:59 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:44:59 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [11/Nov/2020:13:45:24 +0000] "GET /answer.txt HTTP/1.1" 200 12
+127.0.0.1 - - [12/Nov/2020:06:12:50 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:14:43 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:14:43 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:14:43 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:14:43 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:14:43 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:14:43 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:14:43 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:14:43 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:58:31 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:58:31 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:06:58:31 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:01:45 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:01:45 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:01:45 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:01:45 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "GET /httpd.txt HTTP/1.1" 400 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:16:51 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:29:59 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:29:59 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:29:59 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:30:50 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:30:50 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:30:50 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:30:55 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:07:30:55 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:07:30:55 +0000] "GET /httpd.txt HTTP/1.1" 400 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:30:55 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:30:55 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:30:55 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:30:55 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:33:16 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:33:16 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:33:16 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:33:21 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:07:33:21 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:07:33:21 +0000] "GET /httpd.txt HTTP/1.1" 400 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:33:21 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:33:21 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:33:21 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:07:33:21 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:02:07 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:02:07 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:02:07 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:02:12 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:09:21:53 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:21:53 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:21:53 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:09:21:58 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:09:27:58 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:27:58 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:27:58 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:09:28:03 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:09:31:31 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:31:31 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:31:31 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:09:31:36 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:09:31:36 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:09:31:36 +0000] "GET /httpd.txt HTTP/1.1" 400 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:31:36 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:31:36 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:31:36 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:31:36 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "GET /httpd.txt HTTP/1.1" 400 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:09:52:59 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "GET /httpd.txt HTTP/1.1" 400 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:02:23 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:09:03 +0000] "GET / HTTP/1.1" 400 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:09:03 +0000] "GET /answer.txt HTTP/1.1" 400 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:09:03 +0000] "GET /answer.txt HTTP/1.1" 400 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:09:03 +0000] "GET /answer.txt HTTP/2.0" 400 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:11:08 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:11:08 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:11:08 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:11:08 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:16:17 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:16:17 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:16:17 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:18:09 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:18:09 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:18:09 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:24:24 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:24:24 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:24:24 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:24:24 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:24:24 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:24:24 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:10:24:24 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:24:24 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:24:24 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:58:09 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:58:09 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:58:09 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:58:09 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:58:09 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:58:09 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:10:58:09 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:58:09 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:58:09 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:10:59:05 +0000] "DELETE /anwser.html HTTP/1.1" 404 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "DELETE /dummy.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "HEAD /success.html HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "HEAD /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "HEAD /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:13:00 +0000] "HEAD /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:10 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:10 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:10 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:22:10 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:10 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:22:10 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:22:10 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:10 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:10 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:11 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:11 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:11 +0000] "HEAD /success.html HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:11 +0000] "HEAD /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:22:11 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:22:11 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:22:11 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:11 +0000] "HEAD /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:22:11 +0000] "HEAD /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "PUT /dummy.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "HEAD /success.html HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "HEAD /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "HEAD /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:26:18 +0000] "HEAD /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "PUT /dummy.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:18 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:28 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:28 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:28 +0000] "HEAD /success.html HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:28 +0000] "HEAD /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:28:28 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:28:28 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:28:28 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:28 +0000] "HEAD /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:28:28 +0000] "HEAD /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "PUT /dummy.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:29:55 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:30:05 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:30:05 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:30:05 +0000] "HEAD /success.html HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:30:05 +0000] "HEAD /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:30:05 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:30:05 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:30:05 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:30:05 +0000] "HEAD /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:30:05 +0000] "HEAD /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "GET /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "GET /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "PUT /dummy.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:20 +0000] "PUT /uploaded.html HTTP/1.1" 201 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:30 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:30 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:30 +0000] "HEAD /success.html HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:30 +0000] "HEAD /answer.txt HTTP/1.1" 304 12 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:33:30 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:11:33:30 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:11:33:30 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:30 +0000] "HEAD /answer.txt HTTP/1.1" 200 32 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:11:33:30 +0000] "HEAD /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "GET /answer.txt HTTP/1.1" 200 48 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "GET /answer.txt HTTP/1.1" 304 30 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "PUT /dummy.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:37 +0000] "PUT /uploaded.html HTTP/1.1" 201 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:47 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:47 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:47 +0000] "HEAD /success.html HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:47 +0000] "HEAD /answer.txt HTTP/1.1" 304 30 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:16:49:47 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:16:49:47 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:16:49:47 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:47 +0000] "HEAD /answer.txt HTTP/1.1" 200 48 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:49:47 +0000] "HEAD /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "GET /answer.txt HTTP/1.1" 200 48 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "GET /answer.txt HTTP/1.1" 304 30 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "PUT /dummy.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "PUT /uploaded.html HTTP/1.1" 201 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "HEAD /success.html HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "HEAD /answer.txt HTTP/1.1" 304 30 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "HEAD /answer.txt HTTP/1.1" 200 48 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:57:59 +0000] "HEAD /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:16:59:37 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "GET /answer.txt HTTP/1.1" 200 48 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "GET /answer.txt HTTP/1.1" 304 30 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "GET /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "PUT /dummy.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "PUT /uploaded.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "HEAD /success.html HTTP/1.1" 200 191 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "HEAD /answer.txt HTTP/1.1" 304 30 "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "HEAD /answer.txt HTTP/1.1" 200 48 python-requests/2.22.0
+127.0.0.1 - - [12/Nov/2020:17:00:53 +0000] "HEAD /otps.txt HTTP/1.1" 403 0 python-requests/2.22.0
+127.0.0.1 - - [08/Dec/2020:08:19:27 +0000] "GET / HTTP/1.1" 200 191 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15
+127.0.0.1 - - [08/Dec/2020:08:19:27 +0000] "GET /return.png HTTP/1.1" 404 120 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15 "821B29=7283"
+127.0.0.1 - - [08/Dec/2020:08:19:28 +0000] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 120 Safari/16610.2.11.51.8 CFNetwork/1207.2 Darwin/20.1.0
+127.0.0.1 - - [08/Dec/2020:08:19:28 +0000] "GET /apple-touch-icon.png HTTP/1.1" 404 120 Safari/16610.2.11.51.8 CFNetwork/1207.2 Darwin/20.1.0 "7F7F2E=8037"
+127.0.0.1 - - [08/Dec/2020:08:19:28 +0000] "GET /favicon.ico HTTP/1.1" 200 17091 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15 "821B29=7283"
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "GET / HTTP/1.1" 200 191 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "GET /answer.txt HTTP/1.1" 200 48 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "GET /answer.txt HTTP/1.1" 304 30 "afsd=4654"
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "GET /otps.txt HTTP/1.1" 404 120 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "PUT /dummy.html HTTP/1.1" 204 "-" python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:21:04 +0000] "PUT /uploaded.html HTTP/1.1" 201 "-" python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "GET / HTTP/1.1" 200 192 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "GET /answer.txt HTTP/1.1" 200 48 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "GET /answer.txt HTTP/1.1" 304 30 "afsd=4654"
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "GET /httpd.txt HTTP/1.1" 404 120 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "GET /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "GET /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "GET /otps.txt HTTP/1.1" 404 120 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "POST /form1.html?fname=amey&lname=dhongade HTTP/1.1" 200 "-" python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "PUT /dummy.html HTTP/1.1" 204 "-" python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "PUT /uploaded.html HTTP/1.1" 201 "-" python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "DELETE /dummy.html HTTP/1.1" 200 "-" python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "DELETE /anwser.html HTTP/1.1" 204 "-" python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "HEAD /success.html HTTP/1.1" 200 192 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "HEAD /answer.txt HTTP/1.1" 304 30 "afsd=4654"
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "HEAD /answer.txt HTTP/2.0" 505 "-" "afsd=4654"
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "HEAD /answer.txt HTTP/1.1" 400 "-"
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "HEAD /httpd.txt HTTP/1.1" 404 120 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "HEAD /answer.txt HTTP/1.1" 200 48 python-requests/2.25.0
+127.0.0.1 - - [08/Dec/2020:08:25:01 +0000] "HEAD /otps.txt HTTP/1.1" 404 120 python-requests/2.25.0
+127.0.0.1 - - [09/Dec/2020:19:45:21 +0000] "GET / HTTP/1.1" 200 192 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15
+127.0.0.1 - - [09/Dec/2020:19:45:21 +0000] "GET /favicon.ico HTTP/1.1" 200 17091 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15 "D4D9A9=5952"
+127.0.0.1 - - [09/Dec/2020:19:45:21 +0000] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 120 Safari/16610.2.11.51.8 CFNetwork/1207.2 Darwin/20.1.0
+127.0.0.1 - - [09/Dec/2020:19:45:21 +0000] "GET /apple-touch-icon.png HTTP/1.1" 404 120 Safari/16610.2.11.51.8 CFNetwork/1207.2 Darwin/20.1.0 "EF64E1=9447"
+127.0.0.1 - - [09/Dec/2020:19:45:24 +0000] "GET /www.google.com HTTP/1.1" 301  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15 "D4D9A9=5952"
+127.0.0.1 - - [09/Dec/2020:19:46:23 +0000] "GET / HTTP/1.1" 200 192 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15 "D4D9A9=5952"
+127.0.0.1 - - [09/Dec/2020:19:47:41 +0000] "GET / HTTP/1.1" 200 192 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15 "D4D9A9=5952"
+127.0.0.1 - - [09/Dec/2020:19:47:41 +0000] "GET /favicon.ico HTTP/1.1" 200 17091 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15 "D4D9A9=5952"
+127.0.0.1 - - [09/Dec/2020:19:47:45 +0000] "GET /www.google.com HTTP/1.1" 301  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15 "D4D9A9=5952"

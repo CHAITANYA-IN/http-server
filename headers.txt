@@ -1,0 +1,18 @@
+Response Headers:
+Date
+Server
+Last-Modified
+Set-Cookie
+Content-Encoding
+Content-Type
+Content-Length
+
+Status-Codes:
+200
+404
+400
+403
+505
+201
+204
+304

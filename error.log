@@ -1,0 +1,558 @@
+ [Fri Nov 06 01:38:18.857165 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Fri Nov 06 03:50:38.543432 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Fri Nov 06 03:54:15.898550 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Fri Nov 06 03:54:36.278293 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Fri Nov 06 03:55:21.800155 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Fri Nov 06 03:55:34.736992 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Fri Nov 06 03:59:21.984582 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Fri Nov 06 04:00:47.832952 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Fri Nov 06 04:03:17.284166 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Fri Nov 06 04:04:11.597196 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Sat Nov 07 23:16:01.472703 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sat Nov 07 23:17:58.873846 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sat Nov 07 23:44:20.217806 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sat Nov 07 23:44:47.609062 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sat Nov 07 23:44:52.713970 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Sun Nov 08 00:14:37.820249 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:14:50.914179 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:25:25.161206 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:28:44.527458 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:28:45.672533 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 00:38:49.025728 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:40:38.758076 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 00:44:59.536901 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:45:46.286721 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:45:46.487026 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 00:49:23.451180 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:52:53.570167 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:53:12.421906 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 00:53:52.703859 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 00:54:52.480219 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Sun Nov 08 00:54:56.127206 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 00:56:49.089506 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 00:57:22.827838 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Sun Nov 08 00:57:22.879876 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Sun Nov 08 01:00:25.530965 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 01:00:25.547036 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Sun Nov 08 01:00:33.406982 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 01:00:34.976311 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 01:01:15.650199 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 10:35:32.563096 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 10:40:39.782276 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 10:40:39.810842 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 10:40:55.401807 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 10:40:56.411893 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 10:41:12.142416 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 10:41:32.731028 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 10:41:32.734559 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 10:41:32.746868 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 10:41:33.552999 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Sun Nov 08 10:41:38.702908 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 10:41:41.395039 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 10:50:00.019522 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 10:50:00.038005 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 11:13:27.277212 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:13:46.950615 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 11:13:47.946501 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 11:14:12.807510 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 11:15:10.861559 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:27:55.866552 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:27:55.884285 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 11:32:27.337414 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:32:45.667608 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 11:32:48.486389 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 11:32:51.928454 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Sun Nov 08 11:34:28.777944 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:37:08.751296 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 11:37:08.842175 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Sun Nov 08 11:37:18.235727 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 11:37:24.077998 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Sun Nov 08 11:37:35.722104 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/image.png
+ [Sun Nov 08 11:46:03.621998 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Sun Nov 08 11:46:12.417860 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 11:46:27.929631 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:47:12.906596 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:47:16.773357 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:55:37.696989 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:56:39.785639 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 11:56:40.423312 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 11:57:26.626611 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/image.png
+ [Sun Nov 08 13:16:19.421694 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 13:16:19.435300 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 13:16:43.059785 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 13:16:43.549358 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 13:30:04.572544 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Sun Nov 08 13:31:30.516044 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 13:31:30.529956 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 13:34:21.226349 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Sun Nov 08 13:34:21.244968 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Sun Nov 08 13:37:09.797756 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 00:04:25.284339 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 00:04:25.305924 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Tue Nov 10 00:06:27.687102 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 00:06:27.721919 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Tue Nov 10 00:16:41.856659 2020] [error] [client localhost Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 00:30:31.512633 2020] [error] [client localhost OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 00:40:28.944374 2020] [error] [client 127.0.0.1 Forbidden /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 00:40:53.676408 2020] [error] [client 127.0.0.1 Forbidden /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/dummy.html
+ [Tue Nov 10 00:40:57.826677 2020] [error] [client 127.0.0.1 Forbidden /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/dummy.html
+ [Tue Nov 10 00:45:47.254654 2020] [error] [client 127.0.0.1 Forbidden /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 00:47:10.362504 2020] [error] [client 127.0.0.1 Forbidden /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/dummy.html
+ [Tue Nov 10 00:47:14.267445 2020] [error] [client 127.0.0.1 Forbidden /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/dummy.html
+ [Tue Nov 10 00:47:15.561077 2020] [error] [client 127.0.0.1 Forbidden /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/dummy.html
+ [Tue Nov 10 19:19:51.713550 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 19:19:51.863285 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 19:20:01.475002 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 19:20:20.953912 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 19:20:28.733020 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 19:20:28.791313 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Tue Nov 10 19:20:34.654030 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 19:44:53.835567 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 19:50:40.795871 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 19:53:00.379415 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:04:07.952099 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:04:08.006038 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Tue Nov 10 20:04:08.101739 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:23.910169 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:23.962180 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:24.935153 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:24.974794 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:25.471584 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:25.510773 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:25.853769 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:25.889190 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:26.019786 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:26.046012 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:26.176739 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:26.204432 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:26.327656 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:26.363431 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:30.345839 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:30.392225 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:30.675521 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:30.699765 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:30.850932 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:30.885047 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:05:32.621361 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:34.154764 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:35.987772 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:37.892333 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:05:39.416863 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:13:02.258797 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:13:02.371201 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:13:07.355332 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:13:11.750559 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:18:51.210809 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 20:18:51.248669 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:18:53.722320 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 20:18:53.764129 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:18:54.333831 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 20:18:54.371180 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:18:54.700516 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 20:18:54.736229 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:18:54.925516 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 20:18:54.950024 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:18:55.270181 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 20:18:55.314708 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:18:55.587050 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 20:18:55.615458 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:21:14.910374 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 20:21:14.953638 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:23:29.414972 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 20:23:30.676662 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 20:23:31.980256 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 20:23:33.289605 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 20:23:34.357394 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 20:23:39.945145 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Tue Nov 10 20:24:04.607053 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/dummy.html
+ [Tue Nov 10 20:25:40.280928 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/dummy.html
+ [Tue Nov 10 20:25:45.825716 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/form1.html
+ [Tue Nov 10 20:33:56.552225 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 20:33:56.621959 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Tue Nov 10 20:33:59.097433 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Tue Nov 10 20:34:07.825423 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Tue Nov 10 20:34:07.886699 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Tue Nov 10 20:34:29.448156 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/dummy.html
+ [Wed Nov 11 00:01:57.579865 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 00:01:57.646402 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Wed Nov 11 00:01:57.767683 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/favicon.ico
+ [Wed Nov 11 00:02:06.273779 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/dummy.html
+ [Wed Nov 11 00:02:11.856626 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Wed Nov 11 00:02:17.222148 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Wed Nov 11 18:00:01.010815 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:02:39.601610 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:04:26.981372 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:04:29.904221 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:04:34.102283 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:06:00.196356 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:06:05.815914 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Wed Nov 11 18:06:07.964752 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/success.html
+ [Wed Nov 11 18:06:31.805254 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:06:44.034411 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:10:44.419853 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:25:39.958776 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:30:26.416199 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:33:39.321090 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Wed Nov 11 18:37:18.735043 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:37:54.320581 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Wed Nov 11 18:39:26.743609 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/error.html
+ [Wed Nov 11 18:46:02.038798 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:47:17.754243 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/return.png
+ [Wed Nov 11 18:50:40.740979 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 18:52:00.246408 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2
+ [Wed Nov 11 19:06:42.833231 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:09:19.711961 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:10:31.457701 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:10:36.121930 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:10:38.311649 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:10:40.113807 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:10:41.116768 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:10:41.861445 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:10:42.482276 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:10:43.100848 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:10:43.688634 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:12:31.330724 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:21.408918 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:23.532427 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:24.461632 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:24.869286 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:25.254598 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:25.525970 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:25.793326 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:26.047220 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:26.257099 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:26.734322 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:27.047648 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:27.670740 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:13:27.953098 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:34.571489 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:35.789884 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:36.670216 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:55.737542 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:56.252482 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:56.661839 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:56.960411 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:57.242823 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:57.520509 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:57.803795 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:58.092176 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:58.366520 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:58.686115 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:59.019648 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:59.239433 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:14:59.781347 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Wed Nov 11 19:15:24.895139 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Documents/Documents – CHAITANYA’s MacBook Pro/My Work/TY/CN/Project/HTTP Server/v2/answer.txt
+ [Thu Nov 12 11:42:50.409688 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 11:44:43.108660 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 11:44:43.110906 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 11:44:43.112604 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 11:44:43.114230 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 11:44:43.115831 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 11:44:43.117692 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 11:44:43.119424 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 11:44:43.122046 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:28:31.310595 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 12:28:31.313896 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:28:31.316425 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:31:45.793913 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 12:31:45.796101 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:31:45.797942 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:31:45.798777 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:46:51.591361 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 12:46:51.593806 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:46:51.595738 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:46:51.596544 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:46:51.597016 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:46:51.598336 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/httpd.txt
+ [Thu Nov 12 12:46:51.599949 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:46:51.601662 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 12:46:51.603414 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 12:46:51.604922 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 12:59:59.819024 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 12:59:59.821355 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 12:59:59.823283 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:00:50.205082 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 13:00:50.207240 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:00:50.209271 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:00:55.216263 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:00:55.221351 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:00:55.228187 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/httpd.txt
+ [Thu Nov 12 13:00:55.234653 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:00:55.242011 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 13:00:55.245490 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 13:00:55.247311 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 13:03:16.878152 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 13:03:16.880197 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:03:16.882051 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:03:21.886525 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:03:21.888654 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:03:21.893259 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/httpd.txt
+ [Thu Nov 12 13:03:21.895454 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 13:03:21.897701 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 13:03:21.900133 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 13:03:21.901964 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 14:32:07.096992 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 14:32:07.099266 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 14:32:07.101353 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 14:32:12.106705 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 14:51:53.541471 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 14:51:53.544516 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 14:51:53.557141 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 14:51:58.562404 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 14:57:58.914020 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 14:57:58.916369 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 14:57:58.925979 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 14:58:03.930456 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:01:31.726390 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 15:01:31.729289 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:01:31.739012 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:01:36.749814 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:01:36.752306 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:01:36.756414 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/httpd.txt
+ [Thu Nov 12 15:01:36.759431 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:01:36.762753 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 15:01:36.766760 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 15:01:36.770821 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 15:22:59.158251 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 15:22:59.160495 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:22:59.170732 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:22:59.171156 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:22:59.171635 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:22:59.173357 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/httpd.txt
+ [Thu Nov 12 15:22:59.175187 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:22:59.178059 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 15:22:59.180281 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 15:22:59.181949 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 15:32:23.949239 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 15:32:23.951387 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:32:23.960776 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:32:23.961281 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:32:23.961845 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:32:23.963985 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/httpd.txt
+ [Thu Nov 12 15:32:23.966379 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:32:23.968391 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 15:32:23.970571 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 15:32:23.973707 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 15:39:03.964445 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3
+ [Thu Nov 12 15:39:03.967106 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:39:03.977614 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:39:03.978095 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:41:08.813261 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 15:41:08.815440 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:41:08.826430 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:41:08.827057 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:46:17.855450 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 15:46:17.858553 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:46:17.867834 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:48:09.782561 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 15:48:09.785675 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:48:09.798244 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:54:24.295940 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 15:54:24.298466 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:54:24.307676 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:54:24.310549 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:54:24.311200 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 15:54:24.313065 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 15:54:24.315747 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 15:54:24.318160 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 16:28:09.418390 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 16:28:09.421160 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:28:09.430489 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:28:09.433595 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:28:09.434179 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:28:09.435609 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:28:09.438413 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 16:28:09.440656 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 16:29:05.775164 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 16:29:05.777531 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:29:05.786573 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:29:05.789456 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:29:05.790091 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:29:05.791890 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:29:05.793812 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 16:29:05.795468 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 16:29:05.798189 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 16:43:00.724705 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 16:43:00.726844 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:43:00.735770 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:43:00.738489 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:43:00.739005 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:43:00.740572 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:43:00.742782 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 16:43:00.744513 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 16:43:00.746311 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 16:43:00.747992 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/anwser.html
+ [Thu Nov 12 16:43:00.749835 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/success.html
+ [Thu Nov 12 16:43:00.750774 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:43:00.751128 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:43:00.751553 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:43:00.754808 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:43:00.756561 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:52:10.978888 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 16:52:10.981116 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:52:10.990197 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:52:10.992814 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:52:10.993307 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:52:10.994659 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:52:10.996747 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 16:52:10.998530 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 16:52:11.000639 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 16:52:11.002470 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/anwser.html
+ [Thu Nov 12 16:52:11.004609 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/success.html
+ [Thu Nov 12 16:52:11.005758 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:52:11.006130 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:52:11.006677 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:52:11.010793 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:52:11.012999 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:56:18.701210 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 16:56:18.703236 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:56:18.715947 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:56:18.719022 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:56:18.719474 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:56:18.720790 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:56:18.723365 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 16:56:18.725046 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 16:56:18.726931 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 16:56:18.729521 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 16:56:18.731490 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/anwser.html
+ [Thu Nov 12 16:56:18.733508 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/success.html
+ [Thu Nov 12 16:56:18.734480 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:56:18.734869 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:56:18.735395 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:56:18.740214 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:56:18.743398 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:58:18.892615 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 16:58:18.894867 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:58:18.904184 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:58:18.907052 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:58:18.907645 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:58:18.909037 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:58:18.910862 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 16:58:18.912458 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 16:58:18.914245 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 16:58:28.923177 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 16:58:28.930535 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/anwser.html
+ [Thu Nov 12 16:58:28.938254 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/success.html
+ [Thu Nov 12 16:58:28.942214 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:58:28.943552 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:58:28.945461 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:58:28.953160 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:58:28.955256 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:59:55.031359 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 16:59:55.037340 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:59:55.059499 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:59:55.065068 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:59:55.065873 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 16:59:55.069021 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 16:59:55.076538 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 16:59:55.084804 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 16:59:55.091727 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 17:00:05.106101 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 17:00:05.112115 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/anwser.html
+ [Thu Nov 12 17:00:05.117984 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/success.html
+ [Thu Nov 12 17:00:05.120121 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:00:05.120452 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:00:05.120916 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:00:05.124322 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:00:05.126486 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 17:03:20.868976 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3
+ [Thu Nov 12 17:03:20.871197 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:03:20.880033 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:03:20.882600 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:03:20.883016 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:03:20.884221 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 17:03:20.886147 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 17:03:20.887759 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 17:03:20.889504 2020] [error] [client 127.0.0.1 Created /home/hp/Desktop/v3/uploaded.html
+ [Thu Nov 12 17:03:30.906275 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/dummy.html
+ [Thu Nov 12 17:03:30.912927 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/v3/anwser.html
+ [Thu Nov 12 17:03:30.915214 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/success.html
+ [Thu Nov 12 17:03:30.916407 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:03:30.916796 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:03:30.917344 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:03:30.921035 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/v3/answer.txt
+ [Thu Nov 12 17:03:30.923159 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/v3/otps.txt
+ [Thu Nov 12 22:19:37.395717 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110
+ [Thu Nov 12 22:19:37.407855 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:19:37.417527 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:19:37.420288 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:19:37.420901 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:19:37.422451 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/111803110/otps.txt
+ [Thu Nov 12 22:19:37.426058 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 22:19:37.429656 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/111803110/dummy.html
+ [Thu Nov 12 22:19:37.432886 2020] [error] [client 127.0.0.1 Created /home/hp/Desktop/111803110/uploaded.html
+ [Thu Nov 12 22:19:47.449795 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/dummy.html
+ [Thu Nov 12 22:19:47.457125 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/111803110/anwser.html
+ [Thu Nov 12 22:19:47.464751 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/success.html
+ [Thu Nov 12 22:19:47.468894 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:19:47.470360 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:19:47.472477 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:19:47.481994 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:19:47.485788 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/111803110/otps.txt
+ [Thu Nov 12 22:27:59.049680 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110
+ [Thu Nov 12 22:27:59.052142 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:27:59.063161 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:27:59.066504 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:27:59.066917 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:27:59.068178 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/111803110/otps.txt
+ [Thu Nov 12 22:27:59.070083 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 22:27:59.071730 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/111803110/dummy.html
+ [Thu Nov 12 22:27:59.073414 2020] [error] [client 127.0.0.1 Created /home/hp/Desktop/111803110/uploaded.html
+ [Thu Nov 12 22:27:59.075282 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/dummy.html
+ [Thu Nov 12 22:27:59.077019 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/111803110/anwser.html
+ [Thu Nov 12 22:27:59.079740 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/success.html
+ [Thu Nov 12 22:27:59.081015 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:27:59.081316 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:27:59.081681 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:27:59.086298 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:27:59.089699 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/111803110/otps.txt
+ [Thu Nov 12 22:29:37.534921 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110
+ [Thu Nov 12 22:30:53.666667 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110
+ [Thu Nov 12 22:30:53.669018 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:30:53.678292 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:30:53.680954 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:30:53.681423 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:30:53.683066 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/111803110/otps.txt
+ [Thu Nov 12 22:30:53.685510 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/form1.html?fname=amey&lname=dhongade
+ [Thu Nov 12 22:30:53.687617 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/111803110/dummy.html
+ [Thu Nov 12 22:30:53.689862 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/111803110/uploaded.html
+ [Thu Nov 12 22:30:53.697392 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/dummy.html
+ [Thu Nov 12 22:30:53.700003 2020] [error] [client 127.0.0.1 No Content /home/hp/Desktop/111803110/anwser.html
+ [Thu Nov 12 22:30:53.703013 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/success.html
+ [Thu Nov 12 22:30:53.704155 2020] [error] [client 127.0.0.1 Not Modified /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:30:53.704455 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:30:53.704889 2020] [error] [client 127.0.0.1 Bad Request /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:30:53.708009 2020] [error] [client 127.0.0.1 OK /home/hp/Desktop/111803110/answer.txt
+ [Thu Nov 12 22:30:53.709901 2020] [error] [client 127.0.0.1 Forbidden /home/hp/Desktop/111803110/otps.txt
+ [Tue Dec 08 13:49:27.753178 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project
+ [Tue Dec 08 13:49:28.283641 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/favicon.ico
+ [Tue Dec 08 13:51:04.664032 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project
+ [Tue Dec 08 13:51:04.669055 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:51:04.689840 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:51:04.712939 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:51:04.725761 2020] [error] [client 127.0.0.1 Bad Request /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:51:04.764879 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/form1.html?fname=amey&lname=dhongade
+ [Tue Dec 08 13:51:04.797002 2020] [error] [client 127.0.0.1 No Content /Users/chaitanya/Desktop/111803110/Project/dummy.html
+ [Tue Dec 08 13:51:04.810977 2020] [error] [client 127.0.0.1 Created /Users/chaitanya/Desktop/111803110/Project/uploaded.html
+ [Tue Dec 08 13:55:01.325045 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project
+ [Tue Dec 08 13:55:01.329701 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:55:01.347808 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:55:01.364643 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:55:01.367265 2020] [error] [client 127.0.0.1 Bad Request /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:55:01.382406 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/form1.html?fname=amey&lname=dhongade
+ [Tue Dec 08 13:55:01.390602 2020] [error] [client 127.0.0.1 No Content /Users/chaitanya/Desktop/111803110/Project/dummy.html
+ [Tue Dec 08 13:55:01.395599 2020] [error] [client 127.0.0.1 Created /Users/chaitanya/Desktop/111803110/Project/uploaded.html
+ [Tue Dec 08 13:55:01.403563 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/dummy.html
+ [Tue Dec 08 13:55:01.411163 2020] [error] [client 127.0.0.1 No Content /Users/chaitanya/Desktop/111803110/Project/anwser.html
+ [Tue Dec 08 13:55:01.417471 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/success.html
+ [Tue Dec 08 13:55:01.421611 2020] [error] [client 127.0.0.1 Not Modified /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:55:01.422772 2020] [error] [client 127.0.0.1 HTTP Version Not Supported /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:55:01.424536 2020] [error] [client 127.0.0.1 Bad Request /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Tue Dec 08 13:55:01.452869 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/answer.txt
+ [Thu Dec 10 01:15:21.713247 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project
+ [Thu Dec 10 01:15:21.739551 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/favicon.ico
+ [Thu Dec 10 01:15:24.711518 2020] [error] [client 127.0.0.1 Moved Permanently /Users/chaitanya/Desktop/111803110/Project/www.google.com
+ [Thu Dec 10 01:16:23.969334 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project
+ [Thu Dec 10 01:17:41.456604 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project
+ [Thu Dec 10 01:17:41.483538 2020] [error] [client 127.0.0.1 OK /Users/chaitanya/Desktop/111803110/Project/favicon.ico
+ [Thu Dec 10 01:17:45.020891 2020] [error] [client 127.0.0.1 Moved Permanently /Users/chaitanya/Desktop/111803110/Project/www.google.com
