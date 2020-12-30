@@ -2,11 +2,15 @@
 Simple Http server that generates logs and allows client-server communication via browser as well as using command line.
 
 To run the server 
+
 `python3 server.py`
+
 Port number is selected randomly everyime the server starts
 
 To test (using testing.py)
+
 `python3 testing.py <port-number>`
+
 <port number> : Port number of the server
 
 Files in the project:
